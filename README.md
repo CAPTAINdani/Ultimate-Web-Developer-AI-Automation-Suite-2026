@@ -18,17 +18,17 @@ Master the web with this curated collection of Chrome extensions for technical a
 *Tools to dissect any website's DNA and traffic.*
 
 * **Wappalyzer** • *Identify tech stacks.* | [Store](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg)
-* **Similarweb** • *Traffic & analytics.* | [Store](https://chromewebstore.google.com/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpejgmocibaoeanbh)
-* **Web Developer** • *Dissect HTML/CSS.* | [Store](https://chromewebstore.google.com/detail/web-developer/bfbameneiihcebeonccbaiobbhehdace)
-* **WhatFont** • *Typography ID.* | [Store](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
+* **Similarweb** • *Traffic & analytics.* | [Store](https://chromewebstore.google.com/detail/similarweb-website-traffi/hoklmmgfnpapgjgcpechhaamimifchmp?hl=en)
+* **Web Developer** • *Dissect HTML/CSS.* | [Store](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
+* **WhatFont** • *Typography ID.* | [Store](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)
 
 ---
 
 ## 🤖 2. AI Automation & Modern Workflow
 *Bridge the gap between your IDE and the browser.*
 
-* **Playwright CRX** • *Browser automation & recording.* | [Store](https://chromewebstore.google.com/detail/playwright-crx/jambeljnbnfbkcpnoiaedcabbgmnnlcd)
-* **Summario** • *AI content distillation.* | [Store](https://chromewebstore.google.com/detail/summario-ai-youtube-summa/bnlmplicmifihkbfbilkkildcpmpkmon)
+* **Playwright CRX** • *Browser automation & recording.* | [Store](https://chromewebstore.google.com/detail/playwriter/jfeammnjpkecdekppnclgkkffahnhfhe)
+* **Summario** • *AI content distillation.* | [Store](https://chromewebstore.google.com/detail/summario/bnlmplicmifihkbfbilkkildcpmpkmon?hl=en-US)
 
 ---
 
