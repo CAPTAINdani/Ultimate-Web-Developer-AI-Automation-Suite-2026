@@ -4,9 +4,13 @@ Master the web with this curated collection of Chrome extensions for technical a
 
 ---
 
-## 📂 Deep-Dive Documentation 
+## 📂 What's inside the Extensions Guide?
 > [!IMPORTANT]  
-> **Looking for more?** Inside the [**`extensions-guide`**](./extensions-guide) folder, I have provided in-depth documentation for every extension. Check those files to unlock pro-tips, advanced workflows, and secret synergies between these tools.
+> If you want to master these tools, head over to the [**`extensions-guide`**](./extensions-guide) folder. For every extension listed here, I've provided a dedicated manual covering:
+>
+> * **How it Works:** Step-by-step setup and integration into your daily browser routine.
+> * **Core Capabilities:** A deep dive into the specific problems each tool solves for developers.
+> * **Advanced Tips:** Secret shortcuts and "Pro-Tips" to help you work faster and smarter than the average dev.
 
 ---
 
